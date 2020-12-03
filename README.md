@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars2.githubusercontent.com/u/23660881?s=460&u=6daa201da250205ac0fb7dc284d88f10de1e0392&v=4" width="400" height="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars2.githubusercontent.com/u/23660881?s=460&u=6daa201da250205ac0fb7dc284d88f10de1e0392&v=4" width="100" height="100"></a></p>
 
 # Kodluyoruz Gaziantep Laravel Bootcamp Mezuniyet Projesi
 
